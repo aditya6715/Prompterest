@@ -27,7 +27,7 @@ const RootLayout = ({ children }) => (
       </Provider>
     </body>
     <footer>
-      <p className='font-normal text-center p-9'>Made with ❤️ by <a className='text-orange-400 hover:text-orange-700' href='https://www.linkedin.com/in/kusum-priya/'>Kusum</a>, <a className='text-orange-400 hover:text-orange-700' href='https://www.linkedin.com/in/shubham040700/'>Shubham</a> & <a className='text-orange-400 hover:text-orange-700' href='https://www.linkedin.com/in/sutejsharma/'>Sutej</a></p>
+      <p className='font-normal text-center p-9'>Made with ❤️ by <a className='text-orange-400 hover:text-orange-700' href='www.linkedin.com/in/adityakumar6715'>Aditya</a>, </p>
     </footer>
   </html>
 );
